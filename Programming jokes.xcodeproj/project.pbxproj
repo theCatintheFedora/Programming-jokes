@@ -11,6 +11,7 @@
 		3F62FA6725E806D100812691 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F62FA6625E806D100812691 /* ContentView.swift */; };
 		3F62FA6925E806D600812691 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F62FA6825E806D600812691 /* Assets.xcassets */; };
 		3F62FA6C25E806D600812691 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F62FA6B25E806D600812691 /* Preview Assets.xcassets */; };
+		3F62FA7525E80D1E00812691 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F62FA7425E80D1E00812691 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F62FA6825E806D600812691 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F62FA6B25E806D600812691 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F62FA6D25E806D700812691 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F62FA7425E80D1E00812691 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3F62FA6625E806D100812691 /* ContentView.swift */,
 				3F62FA6825E806D600812691 /* Assets.xcassets */,
 				3F62FA6D25E806D700812691 /* Info.plist */,
+				3F62FA7425E80D1E00812691 /* SwiftyJSON.swift */,
 				3F62FA6A25E806D600812691 /* Preview Content */,
 			);
 			path = "Programming jokes";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F62FA7525E80D1E00812691 /* SwiftyJSON.swift in Sources */,
 				3F62FA6725E806D100812691 /* ContentView.swift in Sources */,
 				3F62FA6525E806D100812691 /* Programming_jokesApp.swift in Sources */,
 			);
